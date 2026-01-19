@@ -1,5 +1,10 @@
 # Free-Blue-Team-Cyber-Security-Training
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
+
+
 ## More 12 Free Blue Team Cyber Security Training:
 
 1. Network Defense/Digital Forensics (EC-Council): https://lnkd.in/ewiVUkYt
