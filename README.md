@@ -31,7 +31,7 @@
 
 12. Computer Systems Security (Massachusetts Institute of Technology): https://lnkd.in/eUDQeT3v
 
-# SHARE! Don't be selfish, don't think only of yourself.
+### SHARE! Don't be selfish, don't think only of yourself.
 
 ---
 
